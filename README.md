@@ -5,11 +5,11 @@ Project Title
 
 Static Webpage Design
 
-Description
+## Description
 
 This project is a static webpage created using HTML and CSS.
 
-Features
+## Features
 
 - Proper HTML structure
 - Sections and headings
@@ -17,10 +17,16 @@ Features
 - CSS styling
 - Clean layout
 
-Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
+
+## screenshots
+
+![Project Screenshot](screenshot_task1_1.jpg)
+
+![Project Screenshot](screenshot_task1_2.jpg)
 
 Author
 
